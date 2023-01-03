@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*---For Laptop---*/
+@media (max-width: 1800px) 
+{
+	
+}
+
+
+/*---For Laptop---*/
+@media (min-width: 1200px) and (max-width: 1400px) 
+{
+	
+
+}
+/*---For Horizental iPad---*/
+@media (min-width: 992px) and (max-width: 1199px) 
+{
+	
+}
+
+/*---For Vertical iPad---*/
+@media (min-width: 768px) and (max-width: 991px) 
+{
+	
+}    
+
+/*---For Mobile---*/
+
+@media (max-width: 767px) 
+{
+
+}
+
+@media (max-width: 480px) 
+{
+
+}
+
+@media (max-width: 414px) 
+{
+
+	
+}
+@media (max-width: 411px) 
+{
+	
+}
+@media (max-width: 375px) 
+{
+
+}
+@media (max-width: 360px) 
+{
+
+}
+@media (max-width: 320px) 
+{
+	.content-group .main-bttns a {
+        padding: 10px 29px;
+    }
+}
